@@ -1,0 +1,10 @@
+# maven artifacts
+target/
+
+# IDE artifacts
+.idea/
+*.iml
+
+# runtime artifacts
+logs/
+anthony.properties
